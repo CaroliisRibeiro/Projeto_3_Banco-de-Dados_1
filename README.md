@@ -33,5 +33,3 @@ Além disso, criamos uma seção de mídias sociais para a livraria. Isso permit
 
 - Link da aparesentação do pitch Educa Livros >>>> https://www.canva.com/design/DAGEE16CRn0/e-Hiqp5LrVqr_kVtfDzF4g/edit?utm_content=DAGEE16CRn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-https://github.com/CaroliisRibeiro/Projeto_3_Banco-de-Dados_1/assets/127742540/7f20a656-54a5-4eeb-897b-2d27cb1a673c
-
