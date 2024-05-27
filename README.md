@@ -2,7 +2,8 @@
 # Projeto 3: pitch do projeto de BD
 ## Pitch Educa Livros
 
-![6d1dc4b1793d6c5c2ef40402171bff07](https://github.com/CaroliisRibeiro/Projeto_3_Banco-de-Dados_1/assets/127742540/b13938b7-8233-4a98-bcd0-3b584fdad201)
+![Design sem nome](https://github.com/CaroliisRibeiro/Projeto_3_Banco-de-Dados_1/assets/127742540/4423ba1b-9b0b-4a1d-bfab-d33062ba0b21)
+
 
 
 # Roteiro
