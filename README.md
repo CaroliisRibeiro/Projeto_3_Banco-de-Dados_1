@@ -19,7 +19,7 @@ A apresentação contém os topicos(destrinchados na apresentação):
 - Público-alvo
 - Doações
 ### Extras
-- Apresentação do modelo logico
+- Apresentação do modelo lógico
 - Easter Egg
   
 
