@@ -25,5 +25,6 @@ A apresentação contem os topicos:
 Focando na livraria, todos os alunos e professores são cadastrados automaticamente, pois já possuem um registro na escola. Eles têm a facilidade de fazer empréstimos de livros. Caso atrasem a devolução, uma multa é aplicada, gerando uma entrada adicional de receita para a escola.
 
 Além disso, criamos uma seção de mídias sociais para a livraria. Isso permite à escola promover livros em promoção e alcançar um público maior fora do ambiente escolar, ampliando assim o alcance e as vendas.
-Link da aparesentação do pitch Educa Livros >>>> https://www.canva.com/design/DAGEE16CRn0/e-Hiqp5LrVqr_kVtfDzF4g/edit?utm_content=DAGEE16CRn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- Link da aparesentação do pitch Educa Livros >>>> https://www.canva.com/design/DAGEE16CRn0/e-Hiqp5LrVqr_kVtfDzF4g/edit?utm_content=DAGEE16CRn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
