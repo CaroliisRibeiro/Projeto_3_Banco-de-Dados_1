@@ -1,6 +1,6 @@
-# Projeto_3_Banco-de-Dados_1
-Projeto_3_BD1
-Pitch Educa Livros
+# Projeto_3_Banco-de-Dados_1 
+# Projeto 3: pitchdo projeto de BD
+## Pitch Educa Livros
 
 ![6d1dc4b1793d6c5c2ef40402171bff07](https://github.com/CaroliisRibeiro/Projeto_3_Banco-de-Dados_1/assets/127742540/b13938b7-8233-4a98-bcd0-3b584fdad201)
 
