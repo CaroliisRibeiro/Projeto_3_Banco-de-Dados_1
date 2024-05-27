@@ -6,7 +6,7 @@
 
 
 # Roteiro
-A apresentação contem os topicos: 
+A apresentação contém os topicos(destrinchados na apresentação): 
 - Cadastro, 
 - Empréstimo
 - Livros : Digital e fisíco
@@ -21,7 +21,6 @@ A apresentação contem os topicos:
 - Apresentação do modelo logico
 - Easter Egg
   
-<p>Esses tópicos descrevem o projeto para o cliente
 
    # Descrição
 <p>Nosso banco de dados é voltado para a livraria de uma escola, que atende tanto alunos e professores quanto pessoas da comunidade. A livraria busca aumentar a renda da escola oferecendo uma variedade de livros à venda, além de outras formas de lucro como o aluguel de espaços, a cantina e a venda de produtos.
